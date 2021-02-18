@@ -1,1 +1,3 @@
-# RedNeuronal_PrediccionCancerDeMama
+#  IA: Creación de una Red Neuronal para la Predicción del Cancer de Mama
+## Explicación y programación en Colaboratory por JMRS (Techneider)
+…
