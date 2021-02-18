@@ -3,7 +3,7 @@
 
 ### www.Techneider.com
 ### https://www.facebook.com/Techneider
-### https://twitter.com/home
+### https://twitter.com/techneider
 ### https://www.linkedin.com/company/techneider
 
 …
